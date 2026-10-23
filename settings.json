@@ -1,14 +1,14 @@
 {
-  "name": "AFK BOT",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "notbot14",
     "password": "567890",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "playsnowmc.aternos.me",
     "port": 44900,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
